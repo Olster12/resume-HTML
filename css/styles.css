@@ -7,6 +7,10 @@ li {
     margin: 0;
 }
 
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;}
 
 body {
     font-family: 'Montserrat', sans-serif;
@@ -197,7 +201,7 @@ body {
 
 /* Sidebar */
 .sidebar {
-    width: 370px;
+    width: 850px;
     background: #E0EBFE;
 }
 
